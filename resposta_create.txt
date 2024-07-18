@@ -1,0 +1,8 @@
+{
+    "id": 528,
+    "username": "ceciliada-conceicao",
+    "email": "monteiroyuri@example.net",
+    "phone": "+55 95 92500-7548",
+    "address": "Largo S\u00e1, 832\nSolimoes\n15963900 Sousa / PB",
+    "cpf": "483.750.916-93"
+}
